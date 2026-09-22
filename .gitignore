@@ -1,0 +1,17 @@
+.env
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+*.log
+.DS_Store
+.idea/
+.vscode/
+chroma_db/
+*.sqlite3
+2_ GenAIpart2.pdf
